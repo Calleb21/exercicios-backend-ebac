@@ -1,0 +1,13 @@
+
+1-	O relógio tocas 6hr.
+2-	Eu abro os meus olhos.
+3-	Desligo o despertador.
+4-	Faço um agradecimento a Deus.
+5-	Me levanto.
+6-	Vou até ao ventilador:
+        1-	Se o ventilador estiver ligado eu irei desligar.
+        2-	Caso contrário eu não faço nada.
+7-	Eu arrumo minha cama.
+8-	Preparo meu ambiente de estudo.
+9-	Escovo meus dentes.
+10-	Tomo meu café da manhã.
