@@ -1,2 +1,2 @@
 ﻿# exercicios-backend-java-ebac
-Atividades do curso de backend-Java-EBAC.
+ Atividades entegues durnte os módulos finais do curso de Backend Java da EBAC.
